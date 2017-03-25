@@ -29,6 +29,6 @@ Pod::Spec.new do |s|
   #s.resource_bundles = {
   #  'SwiftyActionCable' => ['Pod/Assets/*.png']
   #}
-  s.dependency 'SwiftyJSON', '~> 2.3.0'
+  s.dependency 'SwiftyJSON'
   s.dependency 'SwiftWebSocket', '~> 2.6.0'
 end
